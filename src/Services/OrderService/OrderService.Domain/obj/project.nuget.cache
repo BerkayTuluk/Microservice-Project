@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2dMU9ecBTpa3mlgb7Xdh7fdrC0cG5QHW19J6Iw+/CROg/MwxGp9iAUItbh1kTUcvOV/r4gT0LT8q54X/toyIsw==",
+  "dgSpecHash": "CkZG3KttJQgcoBXv8w2KC1KqlZNcK0ShtSeG0mnJHksNYdEtuLVbCb3GA7jXCZeQwEQQ/aZvbxqMVXhUFEaZ/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berka\\Documents\\PROJECTS\\SellingBuddy\\src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj",
+  "projectFilePath": "C:\\Users\\berka\\Documents\\GitHub\\Microservice-Project\\src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

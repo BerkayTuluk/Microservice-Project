@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\berka\\Documents\\PROJECTS\\SellingBuddy\\src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj": {}
+    "C:\\Users\\berka\\Documents\\GitHub\\Microservice-Project\\src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\berka\\Documents\\PROJECTS\\SellingBuddy\\src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj": {
+    "C:\\Users\\berka\\Documents\\GitHub\\Microservice-Project\\src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\berka\\Documents\\PROJECTS\\SellingBuddy\\src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj",
+        "projectUniqueName": "C:\\Users\\berka\\Documents\\GitHub\\Microservice-Project\\src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj",
         "projectName": "NotificationService",
-        "projectPath": "C:\\Users\\berka\\Documents\\PROJECTS\\SellingBuddy\\src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj",
+        "projectPath": "C:\\Users\\berka\\Documents\\GitHub\\Microservice-Project\\src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj",
         "packagesPath": "C:\\Users\\berka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\berka\\Documents\\PROJECTS\\SellingBuddy\\src\\Services\\NotificationService\\NotificationService\\obj\\",
+        "outputPath": "C:\\Users\\berka\\Documents\\GitHub\\Microservice-Project\\src\\Services\\NotificationService\\NotificationService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

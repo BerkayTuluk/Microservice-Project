@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Et3XP94nJHhJnlu/TfmTA0QILVJWRLyffSgt1TrEC+eJu1vsYr5pH/6ComJrGNFN++FS+vScJdcYctl9JwaSng==",
+  "dgSpecHash": "BbR4bSbJpgZwOJw8uUU3FE26HpH3Z+o70i/kJZOrNccObppS7IZyami6sKbqHF2kSk8uzMAjlU6EgJLAEWeWaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berka\\Documents\\PROJECTS\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
+  "projectFilePath": "C:\\Users\\berka\\Documents\\GitHub\\Microservice-Project\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

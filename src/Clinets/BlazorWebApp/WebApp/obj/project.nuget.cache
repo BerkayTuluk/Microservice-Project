@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nmnnVXNvuFIJ0eMqI/+S8wAG+KpTDWoNw4C7iMu4brAUnIweRK/s+xuPeJ8dEPpDfULkvoH5B0Z8OBj1NnNHjQ==",
+  "dgSpecHash": "43JarEzSl5+lQE3sluKc90WSwHTgMPRnUO4/WhBGMNr9d8RrYchtec/NCE7w+fHgRbySaLgrYsmzvHbKvD35LA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berka\\Documents\\PROJECTS\\SellingBuddy\\src\\Clinets\\BlazorWebApp\\WebApp\\WebApp.csproj",
+  "projectFilePath": "C:\\Users\\berka\\Documents\\GitHub\\Microservice-Project\\src\\Clinets\\BlazorWebApp\\WebApp\\WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berka\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.17\\microsoft.aspnetcore.authorization.5.0.17.nupkg.sha512",
     "C:\\Users\\berka\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.17\\microsoft.aspnetcore.components.5.0.17.nupkg.sha512",

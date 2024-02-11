@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = WebApp
-build_property.ProjectDir = C:\Users\berka\Documents\PROJECTS\SellingBuddy\src\Clinets\BlazorWebApp\WebApp\
+build_property.ProjectDir = C:\Users\berka\Documents\GitHub\Microservice-Project\src\Clinets\BlazorWebApp\WebApp\

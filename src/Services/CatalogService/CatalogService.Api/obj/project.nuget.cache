@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YssX017AtHLrhLiN8trzn9DYRyrYVtyGvVDZpseHuT+P3mKl6ipWnBkvqy3JLHCdQZO70Qp2hAtNfP64NAyxHQ==",
+  "dgSpecHash": "hO1UnQusJveYiu0ocPC+/eNlN8fy6UKZEWvp83m4oqwW5r3udu9RZxPU+wtb4HmAIsVS7M6jkVbXe7pwmCKfuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berka\\Documents\\PROJECTS\\SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj",
+  "projectFilePath": "C:\\Users\\berka\\Documents\\GitHub\\Microservice-Project\\src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berka\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\berka\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

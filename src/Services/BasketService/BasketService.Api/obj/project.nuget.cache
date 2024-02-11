@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r+tOb23QjqY4TyKotohILvJa9R3+s5gNa03PuBCGuG+ayK/JKUOT2GKT0+znSUBQSYoG0IWIzKchmLjU9XPjRA==",
+  "dgSpecHash": "HcRz50T5/zKoGevCBuJHNjpcR1qTvOWKj75gZSynA5L7Gldqn7V138ciboLYfF5wiF/3DHEcRCwVg74QUy19Lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berka\\Documents\\PROJECTS\\SellingBuddy\\src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj",
+  "projectFilePath": "C:\\Users\\berka\\Documents\\GitHub\\Microservice-Project\\src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berka\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\berka\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
